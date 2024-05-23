@@ -63,7 +63,7 @@ h4, .h4 {
 }
 
 h5, .h5 {
-  font-size: 20px !important;
+  font-size: 16px !important;
 }
 
 h6, .h6 {
@@ -1324,7 +1324,7 @@ button:not(:disabled) {
 }
 
 .avatar.avatar-ex-sm {
-  max-height: 25px;
+  max-height: 15px;
 }
 
 .avatar.avatar-md-sm {
@@ -1769,13 +1769,13 @@ p {
 /*         Helpers               */
 /*===============================*/
 .section {
-  padding: 80px 0;
+  padding: 30px 0;
   position: relative;
 }
 
 @media (max-width: 768px) {
   .section {
-    padding: 60px 0;
+    padding: 30px 0;
   }
 }
 
@@ -1820,12 +1820,12 @@ p {
 
 .section-title .title {
   letter-spacing: 0.5px;
-  font-size: 30px !important;
+  font-size: 25px !important;
 }
 
 @media (max-width: 768px) {
   .section-title .title {
-    font-size: 24px !important;
+    font-size: 20px !important;
   }
 }
 
